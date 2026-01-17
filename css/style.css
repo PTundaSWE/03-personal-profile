@@ -1,0 +1,31 @@
+.container{
+    /*background-image: url('../images/gradient-mountain-landscape_23-2149152831.webp');*/
+    background-color: rgb(134, 126, 126);
+    background-size: contain;
+    width: 1200px;
+    margin: 200px auto;
+    padding: 1rem;
+    color: whitesmoke;
+}
+
+h1{
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+#profilePicture{
+    height: 220px;
+    width: 220px;
+    background-color: rgba(95, 67, 67, 0.88);
+    border-radius: 50%;
+}
+
+body{
+    letter-spacing: 1px;
+    background-image: url('../images/gradient-mountain-landscape_23-2149152831.webp');
+}
+
+a{
+    color: #caca2e;
+    font-weight: bold;
+}
