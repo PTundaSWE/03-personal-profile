@@ -2,10 +2,12 @@
     /*background-image: url('../images/gradient-mountain-landscape_23-2149152831.webp');*/
     background-color: rgb(134, 126, 126);
     background-size: contain;
-    width: 1200px;
+    width: 992px;
     margin: 200px auto;
-    padding: 1rem;
+    padding: 1.8rem;
     color: whitesmoke;
+    border-radius: 100px;
+    border: 20px solid rgba(9, 40, 9, 0.84);
 }
 
 h1{
